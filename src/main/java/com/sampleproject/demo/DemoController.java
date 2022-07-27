@@ -9,6 +9,6 @@ public class DemoController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hi from Project - v1";
+        return "Hi from Project - v2";
     }
 }
