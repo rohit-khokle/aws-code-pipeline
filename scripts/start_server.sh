@@ -1,3 +1,3 @@
 
 #!/bin/bash
-service tomcat8 start
+service sudo systemctl start tomcat
